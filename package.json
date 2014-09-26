@@ -1,0 +1,32 @@
+{
+	"name": "aureooms-js-code",
+	"description": "code generation code bricks for JavaScript",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-code/issues"
+	},
+	"dependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-code.git"
+	},
+	"main": "js/dist/code.js",
+	"keywords": [
+		"bricks",
+		"code",
+		"generation",
+		"javascript",
+		"js"
+	],
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"doc": "./node_modules/.bin/groc"
+	},
+	"author": "aureooms",
+	"devDependencies": {
+		"aureooms-node-package": "^1.0.0"
+	},
+	"license": "AGPL-3.0",
+	"version": "0.0.0",
+	"homepage": "http://aureooms.github.io/js-code/"
+}
