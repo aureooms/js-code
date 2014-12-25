@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="en"><head><title>statements</title></head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"><meta name="groc-relative-root" content=""><meta name="groc-document-path" content="statements"><meta name="groc-project-path" content="js/src/statements.js"><meta name="groc-github-url" content="https://github.com/aureooms/js-code"><link rel="stylesheet" type="text/css" media="all" href="assets/style.css"><script type="text/javascript" src="assets/behavior.js"></script><body><div id="meta"><div class="file-path"><a href="https://github.com/aureooms/js-code/blob/master/js/src/statements.js">js/src/statements.js</a></div></div><div id="document"><div class="segment"><div class="code"><div class="wrapper">exports.function = <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-params">(statements)</span> {</span>
+	<span class="hljs-keyword">this</span>.statements = statements;
+};
+
+exports.function.prototype.toString = <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-params">()</span> {</span>
+	<span class="hljs-keyword">var</span> str = <span class="hljs-string">""</span>;
+
+	<span class="hljs-keyword">this</span>.statements.forEach(<span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-params">(statement)</span> {</span>
+		str += statement.toString() + <span class="hljs-string">" ;\n"</span>;
+	});
+
+	<span class="hljs-keyword">return</span> str;
+};</div></div></div></div></body></html>

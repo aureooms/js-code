@@ -1,0 +1,24 @@
+<!DOCTYPE html><html lang="en"><head><title>function</title></head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"><meta name="groc-relative-root" content=""><meta name="groc-document-path" content="function"><meta name="groc-project-path" content="js/src/function.js"><meta name="groc-github-url" content="https://github.com/aureooms/js-code"><link rel="stylesheet" type="text/css" media="all" href="assets/style.css"><script type="text/javascript" src="assets/behavior.js"></script><body><div id="meta"><div class="file-path"><a href="https://github.com/aureooms/js-code/blob/master/js/src/function.js">js/src/function.js</a></div></div><div id="document"><div class="segment"><div class="code"><div class="wrapper">exports.function = <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-params">(name, parameters, statements)</span> {</span>
+	<span class="hljs-keyword">this</span>.name = name;
+	<span class="hljs-keyword">this</span>.parameters = parameters;
+	<span class="hljs-keyword">this</span>.statements = statements;
+};
+
+exports.function.prototype.toString = <span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-params">()</span> {</span>
+	<span class="hljs-keyword">var</span> str = <span class="hljs-string">""</span>;
+
+	str += <span class="hljs-string">"function "</span>
+	<span class="hljs-keyword">if</span> (<span class="hljs-keyword">this</span>.name !== <span class="hljs-literal">null</span>) {
+		str += <span class="hljs-keyword">this</span>.name.toString();
+	}
+	str += <span class="hljs-string">"("</span>;
+
+	str += <span class="hljs-keyword">this</span>.parameters.toString();
+
+	str += <span class="hljs-string">") {\n"</span>;
+
+	str += <span class="hljs-keyword">this</span>.statements.toString();
+
+	str += <span class="hljs-string">"}\n"</span>;
+	<span class="hljs-keyword">return</span> str;
+};</div></div></div></div></body></html>

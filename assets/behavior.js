@@ -13,11 +13,611 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "commentsOnly": true,
           "name": "Markdown"
         },
-        "sourcePath": "/home/genius/dev/js/js-code/README.md",
+        "sourcePath": "/home/aureooms/dev/js/js-code/README.md",
         "projectPath": "README.md",
         "targetPath": "index",
         "pageTitle": "index",
         "title": "index"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/add.js",
+        "projectPath": "js/src/add.js",
+        "targetPath": "add",
+        "pageTitle": "add",
+        "title": "add"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/brackets.js",
+        "projectPath": "js/src/brackets.js",
+        "targetPath": "brackets",
+        "pageTitle": "brackets",
+        "title": "brackets"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/declaration.js",
+        "projectPath": "js/src/declaration.js",
+        "targetPath": "declaration",
+        "pageTitle": "declaration",
+        "title": "declaration"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/delete.js",
+        "projectPath": "js/src/delete.js",
+        "targetPath": "delete",
+        "pageTitle": "delete",
+        "title": "delete"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/div.js",
+        "projectPath": "js/src/div.js",
+        "targetPath": "div",
+        "pageTitle": "div",
+        "title": "div"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/dowhile.js",
+        "projectPath": "js/src/dowhile.js",
+        "targetPath": "dowhile",
+        "pageTitle": "dowhile",
+        "title": "dowhile"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/else.js",
+        "projectPath": "js/src/else.js",
+        "targetPath": "else",
+        "pageTitle": "else",
+        "title": "else"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/elseif.js",
+        "projectPath": "js/src/elseif.js",
+        "targetPath": "elseif",
+        "pageTitle": "elseif",
+        "title": "elseif"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/for.js",
+        "projectPath": "js/src/for.js",
+        "targetPath": "for",
+        "pageTitle": "for",
+        "title": "for"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/function.js",
+        "projectPath": "js/src/function.js",
+        "targetPath": "function",
+        "pageTitle": "function",
+        "title": "function"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/iadd.js",
+        "projectPath": "js/src/iadd.js",
+        "targetPath": "iadd",
+        "pageTitle": "iadd",
+        "title": "iadd"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/idiv.js",
+        "projectPath": "js/src/idiv.js",
+        "targetPath": "idiv",
+        "pageTitle": "idiv",
+        "title": "idiv"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/if.js",
+        "projectPath": "js/src/if.js",
+        "targetPath": "if",
+        "pageTitle": "if",
+        "title": "if"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/ilshift.js",
+        "projectPath": "js/src/ilshift.js",
+        "targetPath": "ilshift",
+        "pageTitle": "ilshift",
+        "title": "ilshift"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/imod.js",
+        "projectPath": "js/src/imod.js",
+        "targetPath": "imod",
+        "pageTitle": "imod",
+        "title": "imod"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/imul.js",
+        "projectPath": "js/src/imul.js",
+        "targetPath": "imul",
+        "pageTitle": "imul",
+        "title": "imul"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/irshift.js",
+        "projectPath": "js/src/irshift.js",
+        "targetPath": "irshift",
+        "pageTitle": "irshift",
+        "title": "irshift"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/isub.js",
+        "projectPath": "js/src/isub.js",
+        "targetPath": "isub",
+        "pageTitle": "isub",
+        "title": "isub"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/iushift.js",
+        "projectPath": "js/src/iushift.js",
+        "targetPath": "iushift",
+        "pageTitle": "iushift",
+        "title": "iushift"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/lshift.js",
+        "projectPath": "js/src/lshift.js",
+        "targetPath": "lshift",
+        "pageTitle": "lshift",
+        "title": "lshift"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/mod.js",
+        "projectPath": "js/src/mod.js",
+        "targetPath": "mod",
+        "pageTitle": "mod",
+        "title": "mod"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/mul.js",
+        "projectPath": "js/src/mul.js",
+        "targetPath": "mul",
+        "pageTitle": "mul",
+        "title": "mul"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/parameter.js",
+        "projectPath": "js/src/parameter.js",
+        "targetPath": "parameter",
+        "pageTitle": "parameter",
+        "title": "parameter"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/parameters.js",
+        "projectPath": "js/src/parameters.js",
+        "targetPath": "parameters",
+        "pageTitle": "parameters",
+        "title": "parameters"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/rshift.js",
+        "projectPath": "js/src/rshift.js",
+        "targetPath": "rshift",
+        "pageTitle": "rshift",
+        "title": "rshift"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/statements.js",
+        "projectPath": "js/src/statements.js",
+        "targetPath": "statements",
+        "pageTitle": "statements",
+        "title": "statements"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/sub.js",
+        "projectPath": "js/src/sub.js",
+        "targetPath": "sub",
+        "pageTitle": "sub",
+        "title": "sub"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/ushift.js",
+        "projectPath": "js/src/ushift.js",
+        "targetPath": "ushift",
+        "pageTitle": "ushift",
+        "title": "ushift"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/variable.js",
+        "projectPath": "js/src/variable.js",
+        "targetPath": "variable",
+        "pageTitle": "variable",
+        "title": "variable"
+      },
+      "depth": 1,
+      "outline": []
+    }, {
+      "type": "file",
+      "data": {
+        "language": {
+          "nameMatchers": [".js"],
+          "pygmentsLexer": "javascript",
+          "multiLineComment": ["/*", "*", "*/"],
+          "singleLineComment": ["//"],
+          "ignorePrefix": "}",
+          "foldPrefix": "^",
+          "name": "JavaScript"
+        },
+        "sourcePath": "/home/aureooms/dev/js/js-code/js/src/while.js",
+        "projectPath": "js/src/while.js",
+        "targetPath": "while",
+        "pageTitle": "while",
+        "title": "while"
       },
       "depth": 1,
       "outline": []
