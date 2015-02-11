@@ -1,0 +1,11 @@
+{
+	"name": "aureooms-js-code",
+	"repo": "aureooms/js-code",
+	"scripts": [
+		"js/dist/code.js"
+	],
+	"version": "0.0.2",
+	"description": "code generation code bricks for JavaScript",
+	"main": "js/dist/code.js",
+	"license": "AGPL-3.0"
+}
