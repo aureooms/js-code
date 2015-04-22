@@ -27,6 +27,6 @@
 		"aureooms-node-package": "^1.0.0"
 	},
 	"license": "AGPL-3.0",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"homepage": "http://aureooms.github.io/js-code/"
 }

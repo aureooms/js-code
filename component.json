@@ -4,7 +4,7 @@
 	"scripts": [
 		"js/dist/code.js"
 	],
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "code generation code bricks for JavaScript",
 	"main": "js/dist/code.js",
 	"license": "AGPL-3.0"
