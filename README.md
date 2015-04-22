@@ -13,3 +13,4 @@ code generation code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-code.svg?style=flat)](https://codeclimate.com/github/aureooms/js-code)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-code.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-code)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-code.svg?style=flat)](https://github.com/aureooms/js-code/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-code.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-code)
