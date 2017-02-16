@@ -1,6 +1,8 @@
-(function(exports, undefined){
+( function ( ) {
 
-	'use strict';
+'use strict' ;
+
+var definition = function ( exports , undefined ) {
 
 
 /* js/src/add.js */
@@ -437,4 +439,16 @@ exports.while.prototype.toString = function () {
 	return str;
 };
 
-})(typeof exports === 'undefined' ? this['code'] = {} : exports);
+return exports ;
+} ;
+if ( typeof exports === "object" ) {
+	definition( exports ) ;
+}
+else if ( typeof define === "function" && define.amd ) {
+	define( "@aureooms/js-code" , [ ] , function ( ) { return definition( { } ) ; } ) ;
+}
+else if ( typeof window === "object" && typeof window.document === "object" ) {
+	definition( window["code"] = { } ) ;
+}
+else console.error( "unable to detect type of module to define for @aureooms/js-code") ;
+} )( ) ;
