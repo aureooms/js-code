@@ -1,4 +1,4 @@
-[js-code](http://aureooms.github.io/js-code)
+[js-code](http://make-github-pseudonymous-again.github.io/js-code)
 ==
 
 code generation code bricks for JavaScript
